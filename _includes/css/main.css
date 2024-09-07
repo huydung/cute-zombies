@@ -15,7 +15,15 @@ p {
 p.small {
     font-size: 16px;
 }
-
+ 
+#img-profile {
+    width: 25%;
+}
+@media (max-width: 768px) {
+    #img-profile {
+        width: 40%; /* For smaller devices, make it 50% of the page width */
+    }
+}
 a,
 a:hover,
 a:focus,
