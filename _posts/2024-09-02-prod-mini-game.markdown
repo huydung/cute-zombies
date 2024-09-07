@@ -21,3 +21,8 @@ play-store-link: "https://play.google.com/store/apps/details?id=fun.cutezombies.
 
 This fun, tiny-but-mighty game is inspired by the job of a Video Game Producer / Project Manager.
 
+<div class="googleplay">
+<a href="https://play.google.com/store/apps/details?id=fun.cutezombies.ProdZombieEscape">
+<img src="{{ '/img/googleplay.png' | relative_url }}" alt="Get it on Google Play" style="width: 250px;">
+</a>
+</div>

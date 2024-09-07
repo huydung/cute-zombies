@@ -446,7 +446,7 @@ footer .footer-below {
 }
 
 .portfolio-modal .modal-content .item-details {
-    margin: 30px 0;
+    margin: 10px 0;
 }
 
 .portfolio-modal .close-modal {
@@ -468,17 +468,22 @@ footer .footer-below {
     width: 1px;
     height: 75px;
     margin-left: 35px;
-    background-color: #{{ site.color.secondary }};
+    background-color: #{{ site.color.primary }};
     -webkit-transform: rotate(45deg);
     -ms-transform: rotate(45deg);
     transform: rotate(45deg);
+}
+
+.googleplay {
+    text-align: center;
+    padding-top: 2em;
 }
 
 .portfolio-modal .close-modal .lr .rl {
     z-index: 1052;
     width: 1px;
     height: 75px;
-    background-color: #{{ site.color.secondary }};
+    background-color: #{{ site.color.primary }};
     -webkit-transform: rotate(90deg);
     -ms-transform: rotate(90deg);
     transform: rotate(90deg);
