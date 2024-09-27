@@ -474,9 +474,16 @@ footer .footer-below {
     transform: rotate(45deg);
 }
 
-.googleplay {
+.googleplay, .appstore {
     text-align: center;
     padding-top: 2em;
+   
+}
+
+.googleplay img, .appstore img {
+    height: 90px; /* Set the desired height */
+    width: auto; /* Maintain aspect ratio */
+    object-fit: cover; /* Ensure the image covers the entire height */
 }
 
 .portfolio-modal .close-modal .lr .rl {

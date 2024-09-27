@@ -21,8 +21,15 @@ play-store-link: "https://play.google.com/store/apps/details?id=fun.cutezombies.
 
 This fun, tiny-but-mighty game is inspired by the job of a Video Game Producer / Project Manager.
 
-<div class="googleplay">
-<a href="https://play.google.com/store/apps/details?id=fun.cutezombies.ProdZombieEscape">
-<img src="{{ '/img/googleplay.png' | relative_url }}" alt="Get it on Google Play" style="width: 250px;">
-</a>
+<div class="row">
+        <div class="googleplay col-xs-12 col-md-6 text-center">
+        <a href="https://play.google.com/store/apps/details?id=fun.cutezombies.ProdZombieEscape">
+        <img src="{{ '/img/googleplay.png' | relative_url }}" alt="Get it on Google Play">
+        </a>
+    </div>
+    <div class="appstore col-xs-12 col-md-6 text-center">
+        <a href="https://apps.apple.com/app/zombie-escape-puzzle-path/id6717579549">
+        <img src="{{ '/img/appstore.svg' | relative_url }}" alt="Get it on App Store">
+        </a>
+    </div>
 </div>
