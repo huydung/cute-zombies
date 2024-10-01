@@ -50,8 +50,7 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Lilama 10 Tower
-  - line:  56 Tố Hữu, Nam Từ Liêm, Hà Nội, Việt Nam
+  - line: Nam Từ Liêm, Hà Nội, Việt Nam
 
 # Credits content
 credits: #'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
